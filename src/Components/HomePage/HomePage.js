@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import './HomePage.scss';
 import SearchBox from '../SearchBox/SearchBox';
 import FilterList from '../FilterList/FilterList';
 import LiveStockGrid from '../LiveStockGrid/LiveStockGrid';
@@ -16,4 +17,4 @@ function HomePage() {
   )
 }
 
-export default HomePage
+export default HomePage;
